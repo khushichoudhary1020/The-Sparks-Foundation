@@ -97,7 +97,7 @@ This project provided a comprehensive understanding of IPL matches and player pe
 - **YouTube Video:** Watch my detailed video presentation on this EDA:
   [YouTube Video Link](https://www.youtube.com/yourvideolink)
 - **Kaggle Dataset:** The dataset used for this analysis is available on Kaggle:
-  [Kaggle Dataset Link](https://www.kaggle.com/datasets/yourdatasetlink)
+  [Kaggle Dataset Link](https://www.kaggle.com/datasets/khushichoudhary1020/ipl-dataset)
 
 ## License
 
