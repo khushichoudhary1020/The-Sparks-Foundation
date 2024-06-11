@@ -1,5 +1,5 @@
 MIT License
-===========
+Copyright (c) 2024 Khushi Choudhary
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -18,13 +18,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-To include this in your GitHub repository:
-
-1. Create a new file named `LICENSE` in the root directory of your repository.
-2. Copy and paste the above text into the `LICENSE` file.
-3. Commit and push the changes to your repository.
-
-This will officially license your project under the MIT License, allowing others to use, modify, and distribute your work freely while giving you credit.
